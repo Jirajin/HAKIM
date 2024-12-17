@@ -2,7 +2,7 @@ import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from "@google/ge
 import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
 
 // Access your API key securely
-const API_KEY = "AIzaSyC-unqSVFMw76nxpAzTSsGID-wSL2UXMXk";
+const API_KEY = "AIzaSyD53IgPYCGnAOmIj2EQJcr9kGI8LvD0PG8";
 const genAI = new GoogleGenerativeAI(API_KEY);
 
 // Model setup with generationConfig
